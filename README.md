@@ -1,7 +1,7 @@
 # flutter_recipe
 Example UI
 
-![스크린샷](https://github.com/Michellehwang001/recipes/blob/flutter/assets/images/screen1.png)
+![스크린샷](https://github.com/Michellehwang001/recipes/blob/flutter/assets/images/screen1.png =300x)
 
 ## Getting Started
 
