@@ -1,7 +1,8 @@
 # flutter_recipe
 Example UI
 
-![스크린샷](https://github.com/Michellehwang001/recipes/blob/flutter/assets/images/screen1.png){:width="300px"}
+<img src="https://github.com/Michellehwang001/recipes/blob/flutter/assets/images/screen1.png" width="200">
+<!--![스크린샷](https://github.com/Michellehwang001/recipes/blob/flutter/assets/images/screen1.png)-->
 
 ## Getting Started
 
