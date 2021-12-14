@@ -1,6 +1,6 @@
 # flutter_recipe
+Example UI
 
-A new Flutter project.
 
 ## Getting Started
 
